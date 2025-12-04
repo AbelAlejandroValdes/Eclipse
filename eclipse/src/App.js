@@ -12,6 +12,7 @@ function App() {
         <Route path="/" />
         <Route path="/pagina_dos" element={< Resultados/>} />
         <Route path="/pagina_tres"/>
+        <Route path="/pagina_cuatro" />
     </Routes>
     </div>
   );
