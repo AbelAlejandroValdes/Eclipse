@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from '../components/Navbar';
 import './ScannerPage.css';
 
@@ -8,7 +7,7 @@ const AboutPage = () => {
       <Navbar />
       <div className="scanner-container">
         <div className="scanner-header">
-          <h1>Acerca de SkinScan AI</h1>
+          <h1>Acerca de ECLIPSE</h1>
           <p className="subtitle">Tecnología al servicio de tu salud</p>
         </div>
         <div style={{ padding: '2rem', background: 'white', borderRadius: '15px', boxShadow: '0 10px 30px rgba(0,0,0,0.1)' }}>
